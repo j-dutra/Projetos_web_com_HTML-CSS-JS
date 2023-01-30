@@ -2,5 +2,5 @@
  
 Em construção ....
 
-1 - 
-2 - https://nick-product.vercel.app/
+1 - Sing up form,  https://50-projetos-com-html-css-js.vercel.app/
+2 - Nick Product,  https://nick-product.vercel.app/
