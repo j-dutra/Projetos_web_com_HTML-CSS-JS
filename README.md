@@ -7,6 +7,8 @@ executado apartir do curso https://www.udemy.com/course/50-web-projects-with-htm
  
 Link para os projetos:
 
-1 - Sing up form, https://sing-up-nu.vercel.app/
+1 - Sing up form, https://sing-up-form.netlify.app/
 
-2 - Nike Product, https://nick-product.vercel.app/
+2 - Nike Product, https://nike-product-course.netlify.app/
+
+3 - Dark Mode, https://dark-mode-card.netlify.app/
