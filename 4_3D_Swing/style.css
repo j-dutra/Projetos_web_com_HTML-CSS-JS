@@ -59,7 +59,7 @@ html {
 
 .swing-6 {
     animation: swing6Anim 4s -1s infinite ease-in-out;
-    background-color: transparent;
+    background-color: tra;
 }
 
 .swing-6 div:not(.ball) {
