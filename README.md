@@ -3,7 +3,7 @@
 Em construção ....
 
 O  objetivo desse repositório é a criação de 50 pequenos projetos utilizando HTML5, CSS3, e JavaScript. Esse é um projeto para fins academico,
-executado apartir do curso https://www.udemy.com/course/50-web-projects-with-html-css-and-javascript/ da udemy.
+executado apartir do curso (https://www.udemy.com/share/106mUu3@8wXXXosdxZZkkw2tAc_3aqxEpYCy3VQsy5NcHFd2802mLAINfRDTTqBsNEI6HWbz/) da udemy.
  
 Link para os projetos:
 
