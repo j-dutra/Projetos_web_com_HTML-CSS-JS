@@ -2,8 +2,7 @@
 
 Em construção ....
 
-O  objetivo desse repositório é a criação de 50 pequenos projetos utilizando HTML5, CSS3, e JavaScript. Esse é um projeto para fins academico,
-executado apartir do curso (https://www.udemy.com/share/106mUu3@8wXXXosdxZZkkw2tAc_3aqxEpYCy3VQsy5NcHFd2802mLAINfRDTTqBsNEI6HWbz/) da udemy.
+Esse é um repositório com fins academicos, realizado apartir do curso (https://www.udemy.com/share/106mUu3@8wXXXosdxZZkkw2tAc_3aqxEpYCy3VQsy5NcHFd2802mLAINfRDTTqBsNEI6HWbz/) da udemy. Onde é utilizado HTML5, CSS3, JavaScript puro, onde em cada projeto é possivel colocar em prática conceitos e recursos estudados anteriormente. Sendo todos pequenos projetos que como um jogo de lego, podem ser utilizados e modificados para ser aplicado em qualquer projeto. É possivel visualizar os projetos atraves dos links abaixo:
  
 Link para os projetos:
 
