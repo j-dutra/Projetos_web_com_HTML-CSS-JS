@@ -15,4 +15,4 @@ Link para os projetos:
 
 4 - 3D Swing, https://3dswing.netlify.app/
 
-5 - 3D Menu, menu-3d.netlify.app/
+5 - 3D Menu, https://menu-3d.netlify.app/
