@@ -12,8 +12,8 @@ Link para os projetos:
 
 3 - Dark Mode, https://dark-mode-card.netlify.app/
 
-4 - 3D Swing, https://3dswing.netlify.app/
+4 - 3D Swing, https://3d-swing.netlify.app/
 
 5 - 3D Menu, https://menu-3d.netlify.app/
 
-6 - 3D Landing Page, https://3dlanding-page.netlify.app
+6 - 3D Landing Page, https://3dlanding-page.netlify.app/
