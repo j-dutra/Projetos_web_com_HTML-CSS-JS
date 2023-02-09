@@ -2,9 +2,7 @@ Projetos Web com HTML CSS e JavaScrit.
 
 Em construção ....
 
-O objetivo desse repositorio é desenvolver pequenos projetos, utilizando HTML5, CSS3, e JavaScript (puro), que contém vários conceitos elementares que podem ser aplicados em qualquer projetos web.
-
-Esse é um repositório com fins academicos, realizado apartir do curso (https://www.udemy.com/share/106mUu3@8wXXXosdxZZkkw2tAc_3aqxEpYCy3VQsy5NcHFd2802mLAINfRDTTqBsNEI6HWbz/) da udemy. Onde é utilizado HTML5, CSS3, JavaScript puro, onde em cada projeto é possivel colocar em prática conceitos e recursos estudados anteriormente. Sendo todos pequenos projetos que como um jogo de lego, podem ser utilizados e modificados para ser aplicado em qualquer projeto. É possivel visualizar os projetos atraves dos links abaixo:
+O objetivo desse repositorio é desenvolver pequenos projetos, utilizando HTML5, CSS3, e JavaScript (puro), que contém vários conceitos elementares, de cada uma dessas tecnologias, que podem ser aplicados em qualquer projetos web. Esse é um repositório com fins acadêmico, construido apartir do curso da udemy "50 web projects com html, css and Js", e os projetos sofreram algumas modificações adaptando-os e ampiando em alguns casos, eles poder ser visualizados através do link's abaixo
  
 Link para os projetos:
 
