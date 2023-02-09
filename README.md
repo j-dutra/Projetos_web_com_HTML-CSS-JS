@@ -8,7 +8,7 @@ Link para os projetos:
 
 1 - Sing up form, https://sing-up-form.netlify.app/
 
-2 - Nike Product, https://nike-product-course.netlify.app/
+2 - Nike Product, https://nike-product-store.netlify.app/
 
 3 - Dark Mode, https://dark-mode-card.netlify.app/
 
