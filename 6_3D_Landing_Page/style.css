@@ -200,7 +200,7 @@ html {
     transform: translateZ(-3.5rem);
 }
 
-.rigth-side {
+.right-side {
     transform: rotateY(-90deg) translateX(3.5rem);
     transform-origin: right;
 }
@@ -226,7 +226,7 @@ html {
     transform: translateZ(-8rem);
 }
 
-.active .rigth-side {
+.active .right-side {
     transform: rotateY(-90deg) translateX(8rem);
     transform-origin: right;
 }
