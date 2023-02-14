@@ -18,4 +18,6 @@ Link para os projetos:
 
 6 - 3D Landing Page, https://3dlanding-page.netlify.app/
 
-7 - 3D button, 3d-button-subscribe.netlify.app
+7 - 3D button, https://3d-button-subscribe.netlify.app
+
+8 - Landing Page with Modal forms - https://landing-page-modal.netlify.app/
