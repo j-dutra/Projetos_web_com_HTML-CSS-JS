@@ -22,8 +22,8 @@ Link para os projetos:
 
 8 - Landing Page with Modal forms - https://landing-page-modal.netlify.app/
 
-9 - Expanding Cards - https://landing-page-modal.netlify.app/
+9 - Expanding Cards - https://expandin-cards.netlify.app/
 
-10 - Progress Steps - https://landing-page-modal.netlify.app/
+10 - Progress Steps - https://progress-steps-4.netlify.app/
 
-11 - Ps5 - Xbox - https://landing-page-modal.netlify.app/
+11 - Ps5 - Xbox - https://ps5-xbox.netlify.app/
