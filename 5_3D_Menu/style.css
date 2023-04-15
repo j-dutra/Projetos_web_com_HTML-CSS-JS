@@ -23,7 +23,7 @@ html {
     display: flex;
     justify-content: space-evenly;
     transform-style: preserve-3d;
-    gap: 0.5rem;
+    gap: 0.8rem;
 }
 .change.menu .menu-item {
     transform: rotateY(0) rotateX(0) translateY(0) translateX(0) translateZ(0);
